@@ -1,0 +1,12 @@
+{
+  "name": "SO14",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  }
+}
